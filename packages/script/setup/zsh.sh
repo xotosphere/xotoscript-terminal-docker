@@ -43,7 +43,7 @@ chown $USER_NAME:${USER_GROUP} ${USER_HOME}/.config
 # ZSH CONFIG
 
 mkdir ${USER_HOME}/.config/zsh
-git clone https://github.com/xotosphere/xotodot-zsh.git ${USER_HOME}/.config/zsh >/dev/null
+git clone https://github.com/xotosphere/xotodot-terminal-zsh.git ${USER_HOME}/.config/zsh >/dev/null
 
 # TMUX CONFIG
 
