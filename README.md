@@ -9,7 +9,7 @@
 
 ```shell
 # ⚠️ IMPORTANT => CLONE THIS WAY :
-git clone https://github.com/xotosphere/xotoscript-docker-dockerterm.git ./dockerterm
+git clone https://github.com/xotosphere/xotoscript-terminal-docker.git ./dockerterm
 ```
 
 ### 👾 BUILD AND RUN WITH DOCKER
